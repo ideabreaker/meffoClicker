@@ -1,6 +1,6 @@
 # Prosty plugin na clickera
 
-Prosty plugin na clickera, pisany dosyć dawno temu. Odkopałem w gruzach.
+Prosty plugin na clickera, pisany dosyć dawno temu. Odkopałem w gruzie.
 
 ## Informacje
 
