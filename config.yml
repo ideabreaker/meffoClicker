@@ -1,0 +1,12 @@
+config:
+  spawn:
+    world: world
+    x: 383
+    y: 70
+    z: 148
+  database:
+    host:
+    user:
+    database:
+    password:
+    port:
