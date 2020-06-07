@@ -1,6 +1,7 @@
 # Prosty plugin na clickera
 
 Prosty plugin na clickera, pisany dosyć dawno temu. Odkopałem w tonie gruzu.
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e5cd16ef4c574a7d9387555462847382)](https://www.codacy.com/manual/meffciu/meffoClicker?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=meffciu/meffoClicker&amp;utm_campaign=Badge_Grade)
 
 ## Informacje
 
